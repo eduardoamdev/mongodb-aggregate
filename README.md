@@ -1,5 +1,7 @@
 # MongoDB Aggregate
 
+<img src="./images/aggregate.png" alt="aggregate image" />
+
 ## Descripción
 
 Esta práctica tiene como objetivo mostrar la utilización del método aggregate en bases de datos MongoDB.
